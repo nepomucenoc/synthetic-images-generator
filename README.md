@@ -51,7 +51,7 @@ Contributions are welcome! Feel free to submit pull requests or open issues for 
 
 ## Authors
 
-- [Author Name](https://github.com/nepomucenoc)
+- [Ana Carolina Nepomuceno Costa](https://github.com/nepomucenoc)
 
 ## License
 
